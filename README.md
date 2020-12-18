@@ -1,6 +1,6 @@
 # MLandStats-TasksAssessment
 
-This is my submission for Machine Learning and Statistics module with GMIT due by the 18th of December. Four tasks given periodically over the semester to be completed in the same Jupyter notebook. The purpose of each task is to solve the below problems and explain the process.
+This is my submission for Machine Learning and Statistics module with GMIT due by the 18th of December. Four tasks given periodically over the semester to be completed in the same Jupyter notebook. The purpose of each task is to solve the below problems and explain the process which are solved and explained in tasksForMLandStats.ipynb. For task 4 the Fisher's Iris data set is used and is represented in the iris.csv file. LICENSE contains a standard MIT license and Assesment.pf contains the original problem sheet given to the class. Finally some images are used in some tasks they were created and stored in the imgs folder.
 
 **Task 1**: Write a Python function called sqrt2 that calculates and
 prints to the screen the square root of 2 to 100 decimal places. Your code should
